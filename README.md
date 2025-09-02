@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polsebas&theme=radical&layout=donut)](https://github.com/polsebas/github-readme-stats)
 ![polsebas's GitHub stats](https://github-readme-stats.vercel.app/api?username=polsebas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
-[![My Skills](https://skillicons.dev/icons?i=azure,bash,bootstrap,c,cs,cpp,cloudflare,cmake,css,docker,dotnet,fastapi,flask,gcp,git,github,grafana,html,ai,js,jenkins,jquery,linux,md,mongodb,mysql,nginx,npm,obsidian,postgres,postman,powershell,py,rabbitmq,react,redis,regex,replit,rust,sass,sqlite,stackoverflow,sketchup,ubuntu,vercel,visualstudio,vite,vscode,windows&theme=dark&perline=15)](https://github.com/polsebas)
+[![My Skills](https://skillicons.dev/icons?i=azure,bash,bootstrap,c,cs,cpp,cloudflare,cmake,css,docker,dotnet,fastapi,flask,gcp,git,github,grafana,html,ai,js,jenkins,jquery,linux,md,mongodb,mysql,nginx,npm,obsidian,postgres,postman,powershell,py,rabbitmq,react,redis,regex,replit,rust,sass,sqlite,stackoverflow,sketchup,ubuntu,vercel,visualstudio,vite,vscode,windows&theme=dark&perline=15)](https://www.linkedin.com/in/pablomereles/)
 
 <!--
 **polsebas/polsebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
